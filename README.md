@@ -1,4 +1,4 @@
-# SOEN341_TEAMPROJECT
+# A-Twitter-Tale
 
 A Twitter-like website for our SOEN341 class
 
